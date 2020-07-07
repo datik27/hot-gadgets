@@ -24,6 +24,55 @@ button:hover{
     background-color: #4CAF50;
     color: white;
 }
-#dekho{
-    float:right;
+.card-footer{
+    border: none;
+    background-color: white;
+    text-align: center;
 }
+.card-body{
+    text-align: center;
+}
+
+.ruler{
+    text-align: center;
+    padding-top: 10px;
+}
+.cat-line{
+    height: 4px;
+    width: 100px;
+    background-color: tomato;
+    margin: 0 auto;
+    border-radius: 50px;
+    padding-top: 10px;
+}
+.hand-image{
+    width: 90%;
+    height: auto;
+}
+.cat-bag{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+footer{
+    background-color: teal;
+    color:white;
+    font-weight: 400;
+    text-align: center;
+    height: 25px;
+}
+.container{
+    background-color: rgb(231, 221, 221);
+}
+h1, h2, h3, h4, h5, h6{
+    color: tomato;
+}
+.carousel-indicators li{
+    background-color:blue;
+
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    background-color: teal;
+    color: black;
+    font-weight: bolder;
+}
+                                                    
